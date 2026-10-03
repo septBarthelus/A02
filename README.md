@@ -3,7 +3,7 @@
 ## Introduction
 
 This tutorial explains how to use Git, GitHub, and WebStorm. It is designed for beginners and provides step-by-step instructions for setting up the programs, creating a GitHub repository, cloning a repository into WebStorm, making changes, committing those changes, and pushing them to GitHub.
-
+This tutorial also demonstrates the basic Git workflow of editing, committing, and pushing changes from WebStorm to GitHub.
 ---
 
 # Part 1: Directions for Using Git, GitHub, and WebStorm
